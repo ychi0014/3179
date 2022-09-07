@@ -1,0 +1,14 @@
+1. What is a JSON file? Search it online and discuss with your peers.
+
+JSON files are special text files used to store Javascript-like
+objects, they are useful formats for enclosing data in a text-like
+format to be passed around on the web.
+
+2. How is Vega-lite related to Tamara Munzner's "What? Why? How?"
+framework that we learned in the course?
+
+When creating the JSON file for Vega-lite, a number of attributes
+identified through the "What? Why? How?" framework are used. For
+example, the type of fields (nominal, quantitative), the marks used
+(bar), etc.
+
